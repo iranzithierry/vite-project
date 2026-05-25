@@ -15,6 +15,7 @@ function App() {
           <h1>Vite Project</h1>
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
+            1.
           </p>
         </div>
       </section>
