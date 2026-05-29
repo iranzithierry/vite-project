@@ -1,25 +1,24 @@
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import reactLogo from "./assets/react.svg";
+import viteLogo from "./assets/vite.svg";
+import heroImg from "./assets/hero.png";
+import "./App.css";
 
 function App() {
-  return (
-    <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Vite Project</h1>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-            1.
-          </p>
-        </div>
-      </section>
-  )
+	return (
+		<section id="center">
+			<div className="hero">
+				<img src={heroImg} className="base" width="170" height="179" alt="" />
+				<img src={reactLogo} className="framework" alt="React logo" />
+				<img src={viteLogo} className="vite" alt="Vite logo" />
+			</div>
+			<div>
+				<h1>Vite Project (29/05/2026)</h1>
+				<p>
+					Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
+				</p>
+			</div>
+		</section>
+	);
 }
 
-export default App
+export default App;
