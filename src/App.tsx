@@ -12,10 +12,7 @@ function App() {
 				<img src={viteLogo} className="vite" alt="Vite logo" />
 			</div>
 			<div>
-				<h1>Vite Project (29/05/2026:03:40)</h1>
-				<p>
-					Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-				</p>
+				<h1>React Vite Project</h1>
 			</div>
 		</section>
 	);
