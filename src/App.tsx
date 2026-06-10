@@ -13,7 +13,9 @@ function App() {
 			</div>
 			<div>
 				<h1>React/Vite Project</h1>
-				<button>Start deploying on <a href="https://instant.rw">Instant</a> now!!</button>
+				<button>
+					Start deploying on <a href="https://instant.rw">Instant</a> now!!
+				</button>
 			</div>
 		</section>
 	);
