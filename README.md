@@ -71,3 +71,17 @@ export default defineConfig([
   },
 ])
 ```
+
+## Docker
+
+Build the image:
+
+```sh
+docker build -t vite-project .
+```
+
+Run the container:
+
+```sh
+docker run --rm -p 8080:80 vite-project
+```
