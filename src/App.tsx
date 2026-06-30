@@ -12,7 +12,7 @@ function App() {
 				<img src={viteLogo} className="vite" alt="Vite logo" />
 			</div>
 			<div>
-				<h1>Vite/React App1</h1>
+				<h1>Vite/React App</h1>
 				<button>
 					Start deploying on <a href="https://instant.rw">Instant Cloud</a> now!!
 				</button>
